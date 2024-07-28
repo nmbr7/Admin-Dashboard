@@ -1,0 +1,3 @@
+[submodule "Angular-Sample-UI"]
+	path = Angular-Sample-UI
+	url = git@github.com:nmbr7/Angular-Sample-UI.git
